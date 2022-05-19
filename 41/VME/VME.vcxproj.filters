@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="External Files">
+      <UniqueIdentifier>{ae659a2f-aca4-467d-9ce1-5fb2255e23d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utilities">
+      <UniqueIdentifier>{6202847a-93c8-4e33-ab3b-6f7905108cbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utilities\Linking">
+      <UniqueIdentifier>{cda9618f-1bc4-48a6-af93-7a2357ba4ba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics">
+      <UniqueIdentifier>{2dc7e350-4603-4d55-95ee-d0308c8ce589}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics\Shapes">
+      <UniqueIdentifier>{935e56ed-7c47-41f9-a9af-173d64d66cbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics">
+      <UniqueIdentifier>{b8819246-5175-4f6e-a8a7-13fd1fd05c7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utilities">
+      <UniqueIdentifier>{24e9b5ce-e816-482d-85f1-152fa21c3a26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics\Shapes">
+      <UniqueIdentifier>{233c8300-5aeb-4e19-9ad7-b7abb9ffed96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader Files">
+      <UniqueIdentifier>{6a81ea34-f3eb-4661-8e52-bd9a4bfa9d42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphics\Buffers">
+      <UniqueIdentifier>{17ca6866-01e1-476f-a08b-d5a520d4f1f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphics\Buffers">
+      <UniqueIdentifier>{a5335505-7afa-4c80-ad02-b6354245b1ad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>External Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glad_wgl.c">
+      <Filter>External Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Source Files\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Exception.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.cpp">
+      <Filter>Source Files\Graphics\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="GBO.cpp">
+      <Filter>Source Files\Graphics\Buffers</Filter>
+    </ClCompile>
+    <ClCompile Include="Buffer.cpp">
+      <Filter>Source Files\Graphics\Buffers</Filter>
+    </ClCompile>
+    <ClCompile Include="Velocity.cpp">
+      <Filter>Source Files\Graphics\Buffers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GL-Linker.h">
+      <Filter>Header Files\Utilities\Linking</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>Header Files\Graphics\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="GLM-Linker.h">
+      <Filter>Header Files\Utilities\Linking</Filter>
+    </ClInclude>
+    <ClInclude Include="Exception.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Buffer.h">
+      <Filter>Header Files\Graphics\Buffers</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Velocity.h">
+      <Filter>Header Files\Graphics\Buffers</Filter>
+    </ClInclude>
+    <ClInclude Include="GBO.h">
+      <Filter>Header Files\Graphics\Buffers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\Default.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Default.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Velocity-Map.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Velocity-Map.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Screen.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Screen.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Motion-Blur.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Motion-Blur.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Geometry-Buffer.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Shaders\Geometry-Buffer.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

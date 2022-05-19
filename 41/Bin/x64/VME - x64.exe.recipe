@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\Learning\39-43\41\Output\Debug\x64\VME - x64.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Default.frag</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Default.vert</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Geometry-Buffer.frag</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Geometry-Buffer.vert</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Motion-Blur.frag</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Motion-Blur.vert</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Screen.frag</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Screen.vert</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Velocity-Map.frag</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Learning\39-43\41\VME\Shaders\Velocity-Map.vert</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

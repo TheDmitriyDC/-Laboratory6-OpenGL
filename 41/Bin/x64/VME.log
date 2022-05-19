@@ -1,0 +1,45 @@
+﻿  Buffer.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+  Camera.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+  Core.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+E:\Learning\39-43\41\VME\Core.cpp(10,31): warning C4101: 'e': unreferenced local variable
+  Engine.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+E:\Learning\39-43\41\VME\Engine.cpp(89,31): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Learning\39-43\41\VME\Engine.cpp(96,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Exception.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+  GBO.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+  Scene.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+  Shader.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+  Sphere.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+E:\Learning\39-43\41\VME\Sphere.cpp(52,24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Time.cpp
+  Velocity.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+  Window.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Learning\39-43\41\VME\Modules\glad\glad.h(646): message : see previous definition of 'APIENTRY'
+  Generating Code...
+  glad.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  glad_wgl.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating Code...
+  VME.vcxproj -> E:\Learning\39-43\41\Output\Debug\x64\VME - x64.exe
