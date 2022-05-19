@@ -1,0 +1,78 @@
+﻿  BasePlatformInterface.cpp
+  Pulse.cpp
+E:\Learning\39-43\42\ReflaxMan\src\common\Pulse.cpp(80,34): warning C4458: declaration of 'state' hides class member
+E:\Learning\39-43\42\ReflaxMan\src\common\Pulse.h(67,15): message : see declaration of 'Pulse::state'
+  trace_math.cpp
+  Color.cpp
+  Matrix44.cpp
+  OmniLight.cpp
+  Material.cpp
+  Render.cpp
+E:\Learning\39-43\42\ReflaxMan\src\common\Render.cpp(184,23): warning C4456: declaration of 'ray' hides previous local declaration
+E:\Learning\39-43\42\ReflaxMan\src\common\Render.cpp(156,13): message : see declaration of 'ray'
+  SceneObject.cpp
+  Skybox.cpp
+E:\Learning\39-43\42\ReflaxMan\src\common\Skybox.cpp(59,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Skybox.cpp(59,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Skybox.cpp(60,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Skybox.cpp(60,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Skybox.cpp(61,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Skybox.cpp(61,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Sphere.cpp
+  Camera.cpp
+E:\Learning\39-43\42\ReflaxMan\src\common\Camera.cpp(38,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Camera.cpp(42,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Matrix33.cpp
+E:\Learning\39-43\42\ReflaxMan\src\common\Matrix33.cpp(272,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Matrix33.cpp(272,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Matrix33.cpp(273,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Matrix33.cpp(273,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Matrix33.cpp(274,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Matrix33.cpp(274,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Matrix33.cpp(275,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Matrix33.cpp(275,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Plane.cpp
+  Quaternion.cpp
+  Scene.cpp
+E:\Learning\39-43\42\ReflaxMan\src\common\Scene.cpp(175,112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Scene.cpp(196,28): warning C4456: declaration of 'refl' hides previous local declaration
+E:\Learning\39-43\42\ReflaxMan\src\common\Scene.cpp(80,12): message : see declaration of 'refl'
+E:\Learning\39-43\42\ReflaxMan\src\common\Scene.cpp(196,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Scene.cpp(196,26): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Scene.cpp(207,28): warning C4456: declaration of 'refl' hides previous local declaration
+E:\Learning\39-43\42\ReflaxMan\src\common\Scene.cpp(80,12): message : see declaration of 'refl'
+  Texture.cpp
+E:\Learning\39-43\42\ReflaxMan\src\common\Texture.cpp(259,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Texture.cpp(259,25): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Texture.cpp(260,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Texture.cpp(260,25): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Learning\39-43\42\ReflaxMan\src\common\Texture.cpp(271,35): warning C4458: declaration of 'width' hides class member
+E:\Learning\39-43\42\ReflaxMan\src\common\Texture.h(8,16): message : see declaration of 'Texture::width'
+E:\Learning\39-43\42\ReflaxMan\src\common\Texture.cpp(271,55): warning C4458: declaration of 'height' hides class member
+E:\Learning\39-43\42\ReflaxMan\src\common\Texture.h(9,16): message : see declaration of 'Texture::height'
+  Triangle.cpp
+E:\Learning\39-43\42\ReflaxMan\src\common\Triangle.cpp(66,23): warning C4458: declaration of 'v' hides class member
+E:\Learning\39-43\42\ReflaxMan\src\common\Triangle.h(10,11): message : see declaration of 'Triangle::v'
+E:\Learning\39-43\42\ReflaxMan\src\common\Triangle.cpp(110,43): warning C4458: declaration of 'texture' hides class member
+E:\Learning\39-43\42\ReflaxMan\src\common\Triangle.h(15,19): message : see declaration of 'Triangle::texture'
+  Vector3.cpp
+  Vertex.cpp
+  Generating Code...
+  Compiling...
+  Main.cpp
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(43,27): warning C4459: declaration of 'hWnd' hides global declaration
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(17,6): message : see declaration of 'hWnd'
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(136,26): warning C4459: declaration of 'hWnd' hides global declaration
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(17,6): message : see declaration of 'hWnd'
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(146,32): warning C4457: declaration of 'width' hides function parameter
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(136,42): message : see declaration of 'width'
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(147,33): warning C4457: declaration of 'height' hides function parameter
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(136,59): message : see declaration of 'height'
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(157,25): warning C4459: declaration of 'hWnd' hides global declaration
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(17,6): message : see declaration of 'hWnd'
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(207,34): warning C4459: declaration of 'hWnd' hides global declaration
+E:\Learning\39-43\42\ReflaxMan\src\windows\Main.cpp(17,6): message : see declaration of 'hWnd'
+  stdafx.cpp
+  WindowsPlatformInterface.cpp
+  Generating Code...
+  ReflaxMan.vcxproj -> E:\Learning\39-43\42\ReflaxMan\build\ReflaxMan-x64_debug.exe
